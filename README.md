@@ -1,17 +1,7 @@
 # Fraud-Detection-Model---SMOTE
 Developed a model for predicting fraudulent transactions for a financial company and used insights from the model to develop an actionable plan. Data for the case is in CSV format having 6362620 rows and 10 columns.
 
-## Questions given in the assessment :
-#1.Data cleaning including missing values, outliers and multi-collinearity.
-#2.Describe your fraud detection model in elaboration.
-#3.How did you select variables to be included in the model?
-#4.Demonstrate the performance of the model by using best set of tools.
-#5.What are the key factors that predict fraudulent customer?
-#6.Do these factors make sense? If yes, How? If not, How not?
-#7.What kind of prevention should be adopted while company update its infrastructure?
-#8.Assuming these actions have been implemented, how would you determine if they work?
 
-## Answers with respect to our model
 1. Data Cleaning: Missing Values, Outliers, and Multi-Collinearity
    Missing Values & Duplicates : I have inspected in the entire dataset for missing values and duplicate rows and 
    no missing values or duplicates were found, ensuring data completeness.
